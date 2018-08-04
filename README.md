@@ -4,9 +4,8 @@ So you sold your soul and bought a mac? Here are some mac web dev workflow optim
 You are hereby challenged to add your favorite shortcuts, apps and time saving tricks.
 
 ## Terminal
-How to get a nice terminal? Themes?
+Setup iTerm acccording to Jeff: https://laracasts.com/lessons/dev-machine-setup
 
-https://claudiodangelis.com/osx/2012/09/27/osx-launch-terminal-from-shortcut.html
 
 ## Shortcuts
 
@@ -18,13 +17,19 @@ https://claudiodangelis.com/osx/2012/09/27/osx-launch-terminal-from-shortcut.htm
 | ```???```      | hard refresh |
 | ```CMD+W```      | close tab |
 | ```CMD+SHIFT+W```      | reopen closed tab |
-| ```??? windows/ubuntu eqvivalent is CTRL+TAB```      | swap to next tab |
-| ```???```      | brackets |
+| ```??? windows/ubuntu eqvivalent is CTRL+TAB```      | swap to next tab | 
+| ```???```      | brackets |     
 | ```CMD+LEFT_ARROW```      | go to HOME/END of line shortcuts |
 
 ## Editors
 
 ## General
+Watch Jeff: https://laracasts.com/lessons/dev-machine-setup
+
+Homebrew
+
+Make any application launchable by hotkey: https://claudiodangelis.com/osx/2012/09/27/osx-launch-terminal-from-shortcut.html 
+
 
 <br>
 
