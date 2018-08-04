@@ -16,3 +16,4 @@
 * Create aliases
 * Basic command line style
 * Set up Code directory
+* Assign Terminal to ALT+CMD+X
