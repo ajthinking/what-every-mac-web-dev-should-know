@@ -10,3 +10,5 @@ If you are invited to this repository you are challenged to add your favorite sh
 | ```??? windows/ubuntu eqvivalent is CTRL+TAB```      | swap to next tab |
 | ```???```      | brackets |
 | ```???```      | go to HOME/END of line shortcuts |
+
+> If you touch the mouse you loose.
