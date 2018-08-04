@@ -14,6 +14,7 @@ How to get a nice terminal? Themes?
 | ```CMD+1-9```      | swap between numbered tabs |
 | ```CMD+R```      | update page |
 | ```???```      | hard refresh |
+| ```CMD+W```      | close window |
 | ```??? windows/ubuntu eqvivalent is CTRL+TAB```      | swap to next tab |
 | ```???```      | brackets |
 | ```???```      | go to HOME/END of line shortcuts |
