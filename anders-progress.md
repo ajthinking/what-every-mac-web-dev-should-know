@@ -6,6 +6,7 @@
 * Sync image library
 * Set up Code directory
 * Fix command line
+* FBar to manage Forge
 
 ### Done
 * Installed Chrome
