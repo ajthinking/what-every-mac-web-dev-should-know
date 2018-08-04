@@ -12,6 +12,8 @@ How to get a nice terminal? Themes?
 | ------------- |-------------|
 | ```CMD+F3```      | show desktop |
 | ```CMD+1-9```      | swap between numbered tabs |
+| ```CMD+R```      | update page |
+| ```???```      | hard refresh |
 | ```??? windows/ubuntu eqvivalent is CTRL+TAB```      | swap to next tab |
 | ```???```      | brackets |
 | ```???```      | go to HOME/END of line shortcuts |
