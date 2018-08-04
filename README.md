@@ -11,8 +11,6 @@ If you are invited to this repository you are challenged to add your favorite sh
 | ```???```      | brackets |
 | ```???```      | go to HOME/END of line shortcuts |
 
-
-
-
+<br>
 
 > If you touch the mouse you loose.
