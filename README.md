@@ -6,6 +6,8 @@ You are hereby challenged to add your favorite shortcuts, apps and time saving t
 ## Terminal
 How to get a nice terminal? Themes?
 
+https://claudiodangelis.com/osx/2012/09/27/osx-launch-terminal-from-shortcut.html
+
 ## Shortcuts
 
 | Shortcut       | Does        |
