@@ -18,7 +18,7 @@ How to get a nice terminal? Themes?
 | ```CMD+SHIFT+W```      | reopen closed tab |
 | ```??? windows/ubuntu eqvivalent is CTRL+TAB```      | swap to next tab |
 | ```???```      | brackets |
-| ```???```      | go to HOME/END of line shortcuts |
+| ```CMD+LEFT_ARROW```      | go to HOME/END of line shortcuts |
 
 ## Editors
 
