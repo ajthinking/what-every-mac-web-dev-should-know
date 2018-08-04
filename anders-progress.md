@@ -4,7 +4,6 @@
 * Install laravel
 * Install FME
 * Sync image library
-* Set up Code directory
 * Fix command line
 * FBar to manage Forge
 
@@ -14,3 +13,6 @@
 * Installed Git
 * Customized Desktop
 * Enabled Installation from unknown developer
+* Create aliases
+* Basic command line style
+* Set up Code directory
