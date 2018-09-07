@@ -14,11 +14,11 @@ Setup iTerm acccording to Jeff: https://laracasts.com/lessons/dev-machine-setup
 | ```CMD+F3```      | show desktop |
 | ```CMD+1-9```      | swap between numbered tabs |
 | ```CMD+R```      | update page |
-| ```???```      | hard refresh |
+| ```SHIFT+CMD+R```      | hard refresh |
 | ```CMD+W```      | close tab |
 | ```CMD+SHIFT+W```      | reopen closed tab |
 | ```??? windows/ubuntu eqvivalent is CTRL+TAB```      | swap to next tab | 
-| ```???```      | brackets |     
+| ```SHIFT+ALT+8||9```      | brackets |     
 | ```CMD+LEFT_ARROW```      | go to HOME/END of line shortcuts |
 
 ## Editors
