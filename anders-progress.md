@@ -6,6 +6,7 @@
 * Sync image library
 * Fix command line
 * FBar to manage Forge
+* Install firefox, stop using chrome
 
 ### Done
 * Installed Chrome
