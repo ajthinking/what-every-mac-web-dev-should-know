@@ -17,7 +17,7 @@ Setup iTerm acccording to Jeff: https://laracasts.com/lessons/dev-machine-setup
 | ```SHIFT+CMD+R```      | hard refresh |
 | ```CMD+W```      | close tab |
 | ```CMD+SHIFT+W```      | reopen closed tab |
-| ```??? windows/ubuntu eqvivalent is CTRL+TAB```      | swap to next tab | 
+| ```CTRL+TAB```      | swap to next tab | 
 | ```ALT+8 or 9```      | brackets |     
 | ```SHIFT+ALT+ 8 or 9```      | curly brackets |  
 | ```CMD+LEFT_ARROW```      | go to HOME/END of line shortcuts |
