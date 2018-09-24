@@ -22,6 +22,7 @@ Setup iTerm acccording to Jeff: https://laracasts.com/lessons/dev-machine-setup
 | ```SHIFT+ALT+ 8 or 9```      | curly brackets |  
 | ```CMD+LEFT_ARROW```      | go to HOME/END of line shortcuts |
 |```CMD+,```| Access settings|
+|```CMD+w```| General close|
 
 ## Editors
 
