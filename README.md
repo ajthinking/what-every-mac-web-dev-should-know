@@ -34,10 +34,11 @@ Homebrew
 Make any application launchable by hotkey: https://claudiodangelis.com/osx/2012/09/27/osx-launch-terminal-from-shortcut.html 
 
 ## Chrome
-
-| ⌘ + L | Highlight URL |
-| ⌘ + T | New Tab |
-| ⌘ + shift + T | Open closed tab |
+| Shortcut       | Does        |
+| ------------- |-------------|
+| ```⌘ + L``` | Highlight URL |
+| ```⌘ + T``` | New Tab |
+| ```⌘ + shift + T``` | Open closed tab |
 
 <br>
 
