@@ -35,9 +35,9 @@ Make any application launchable by hotkey: https://claudiodangelis.com/osx/2012/
 
 ## Chrome
 
-⌘ + L | Highlight URL |
-⌘ + T | New Tab |
-⌘ + shift + T | Open closed tab |
+| ⌘ + L | Highlight URL |
+| ⌘ + T | New Tab |
+| ⌘ + shift + T | Open closed tab |
 
 <br>
 
