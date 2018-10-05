@@ -25,6 +25,8 @@ Setup iTerm acccording to Jeff: https://laracasts.com/lessons/dev-machine-setup
 |```CMD+w```| General close|
 
 ## Editors
+Short key heet for visualstudio code
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
 ## General
 Watch Jeff: https://laracasts.com/lessons/dev-machine-setup
